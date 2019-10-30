@@ -7,5 +7,5 @@ This is a python program to send DMX signal from a serial port over RS232 to RS4
 Your raspberry Pi has to be set up to run two files app.js (a node js server file) and script.py (python loop) file at startup
 
 Prerequisites:
-*bottle framework*
+*bottle framework*,
 *cherrypy server*
