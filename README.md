@@ -37,6 +37,8 @@ Step by step tutorial:
 <br>On every boot, run sudo nodejs /home/username/cc/app.js
 <br>On every boot, run python /home/username/cc/script.py
 <br>
+<br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/User%20Interface.png)
+<br>
 <br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/IMG_1761.jpg)
 <br>
 <br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/IMG_1763.jpg)
