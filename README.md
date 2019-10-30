@@ -12,7 +12,9 @@ Step by step tutorial:
 <br>In your linux OS, set up boot to console
 <br>Change default password
 <br>Set a hostname that you can connect to later instead of the IP address
-
+<br>
+<br>Through apt-get (install) or yum or any other package manager install the following packages:
+<br>
 <br>Install samba
 <br>Install python-cherrypy3
 <br>Install python-bottle
@@ -31,3 +33,8 @@ Step by step tutorial:
 <br>On every boot, run sudo nodejs /home/username/cc/app.js
 <br>On every boot, run python /home/username/cc/script.py
 <br>
+<br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/IMG_1761.jpg)
+<br>
+<br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/IMG_1763.jpg)
+<br>
+<br>![alt text](https://github.com/sierramango/DMX_controller/raw/master/IMG_1764.jpg)
