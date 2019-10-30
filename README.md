@@ -6,29 +6,28 @@ This is a python program to send DMX signal from a serial port over RS232 to RS4
 
 Your raspberry Pi has to be set up to run two files app.js (a node js server file) and script.py (python loop) file at startup
 
-Prerequisites:
-*bottle framework*,
-*cherrypy server*
+Prerequisite &
 Step by step tutorial:
 
-In your linux OS, set up boot to console
-Change default password
-Set a hostname that you can connect to later instead of the IP address
+<br>In your linux OS, set up boot to console
+<br>Change default password
+<br>Set a hostname that you can connect to later instead of the IP address
 
-Install samba
-Install python-cherrypy3
-Install python-bottle
-Install python-serial
-Install nodejs
-Install npm
-Install hostapd
-Install isc-dhcp-server
-Install dnsmasq
-run command npm install connect
-run command npm install serve-static
-run command sudo chmod 777 /dev/ttyUSB0 this is in case you are using USB to DMX device instead of a serial chip
-
-Set Wifi to AP (from client to access point mode so it creates it's own Wifi)
-
-On every boot, run sudo nodejs /home/username/cc/app.js
-On every boot, run python /home/username/cc/script.py
+<br>Install samba
+<br>Install python-cherrypy3
+<br>Install python-bottle
+<br>Install python-serial
+<br>Install nodejs
+<br>Install npm
+<br>Install hostapd
+<br>Install isc-dhcp-server
+<br>Install dnsmasq
+<br>run command npm install connect
+<br>run command npm install serve-static
+<br>run command sudo chmod 777 /dev/ttyUSB0 this is in case you are using USB to DMX device instead of a serial chip
+<br>
+<br>Set Wifi to AP (from client to access point mode so it creates it's own Wifi)
+<br>
+<br>On every boot, run sudo nodejs /home/username/cc/app.js
+<br>On every boot, run python /home/username/cc/script.py
+<br>
