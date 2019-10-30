@@ -1,6 +1,6 @@
 # DMX_controller
 
-Python enabled DMX controller that can be run from the Raspberry Pi
+Python enabled DMX controller that can be run from the Raspberry Pi and controlled wirelessly over WiFi
 
 This is a python program to send DMX signal from a serial port over RS232 to RS485 chip straight into any DMX enabled fixtures.
 
